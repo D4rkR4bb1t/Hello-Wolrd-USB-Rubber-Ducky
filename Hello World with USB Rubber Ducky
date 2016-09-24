@@ -1,6 +1,10 @@
+REM Hello World
 REM Author D4kR4bb1t
-REM Hello World using an USB Rubber Ducky
-DELAY 3000
+
+REM let the HID enumerate
+DELAY 2000
+
+
 GUI r
 DELAY 500
 STRING notepad
