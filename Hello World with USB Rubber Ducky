@@ -1,9 +1,8 @@
 REM Hello World
 REM Author: D4kR4bb1t
 
-REM let the HID enumerate
+REM Wait to the HID enumerate all devices
 DELAY 2000
-
 
 GUI r
 DELAY 500
